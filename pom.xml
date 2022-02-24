@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>bhavigna Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.51.249:9980/bhavignatechnologies/repository/wmart-snapshot//</url>
+	      <url>http://13.233.51.249:9980/bhavignatechnologies/repository/wmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
