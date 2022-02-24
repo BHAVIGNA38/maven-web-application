@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>bhavigna technologies Nexus Repository</name>
-	      <url>http://15.206.68.86:9980/bhavignatechnologies/repository/wmart-release/</url>
+	      <url>http://13.233.51.249/bhavignatechnologies/repository/wmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>bhavigna technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.68.86:9980/bhavignatechnologies/repository/wmart-snapshot/</url>
+	      <url>http://13.233.51.249:9980/bhavignatechnologies/repository/wmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
